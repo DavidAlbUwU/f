@@ -1,0 +1,45 @@
+.myNavbar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+
+.navbar-header{
+    width:100%
+
+}
+
+body{
+    text-align: center;
+
+}
+
+#welcome{
+    position: absolute;
+}
+
+.travel_mainDiv{
+    border:1px solid lightgrey;
+}
+.travel1_mainDiv img{
+    width:100%;
+}
+
+.travel1_mainDiv h5 ,.travel_mainDiv P{
+    margin:20px
+}
+
+.filme_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i{
+    float: right;
+}
+
+.conquistas_text span{
+    color: orange;
+}
